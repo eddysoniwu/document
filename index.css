@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.images {
+  margin-top: 4.5%;
+  margin-left: 5.5%;
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 90%;
+    font-weight: 500;
+    transition: all 600ms ease-in-out;
+   
+}
+a:hover {
+    color: orange;
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sidebar {
+  background-color: red;
+  width: 18.5rem;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+.xender {
+    width: 31.9%;
+    height: auto;
+    cursor: pointer;
+    gap: 1%;
+}
+.choose {
+    width: 31.9%;
+    height: auto;
+    cursor: pointer;
+    padding-bottom: 13%;
+}
+.home-content{
+   width: 31.9%;
+   height: auto;
+   cursor: pointer;
+   padding-bottom: 13%;
+} 
+.home-content:hover {
+    color: gray;
+}
+.product {
+    width: 31.9%;
+   height: auto;
+   cursor: pointer;  
+   padding-bottom: 18%;
+}
+.top-image {
+    width: 31.9%;
+    height: auto;
+    cursor: pointer;
+}
+.links {
+    font-weight: 550;
+    margin-bottom: 3rem;
+}
+.juice {
+    font-size: large;
+    font-weight: bolder;
+    color: white; 
+}
+.top {
+    width: 31.9%;
+    height: auto;
+    cursor: pointer; 
+}
+.hi {
+    margin-left: 1%;
+    margin-top: 1%;
+    cursor: pointer;
+    transition: all 600ms ease-in-out;
+    background: orange;
+    padding: 15px 15px 15px 5px;
+}
+.hi:hover {
+   background-color: black;
+}
+.power {
+    font-size: large;
+    font-weight: bolder;
+    color: white; 
+}
+.phone {
+    margin-left: 2%;
+    margin-top: 1%;
+    cursor: pointer;
+    transition: all 600ms ease-in-out;
+    background: black;
+    padding: 15px 10px 1px 1px;
+}
+.ink{
+    margin-top: 6%;
+    margin-left: 6%;
+    gap: 2%;
+}
+.buy {
+    text-transform: uppercase;
+    justify-content: space-between;
+}
+.buy:hover {
+    color: orange;
+}
+.pat {
+    color: gray;
+}
